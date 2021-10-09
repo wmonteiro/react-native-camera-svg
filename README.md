@@ -43,7 +43,7 @@ $ npm install react-native-camera
 <string>Your message to user when the microphone is accessed for the first time</string>
 ```
 
-##### Full documentation
+## Dependencies documentation
 
 [react-native-camera](https://markdownlivepreview.com/)
 
